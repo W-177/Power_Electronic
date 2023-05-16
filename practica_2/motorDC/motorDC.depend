@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622636390 source:d:\postgrado\ec7136 - electrónica de potencia ii\codes\practica_2\motordc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
