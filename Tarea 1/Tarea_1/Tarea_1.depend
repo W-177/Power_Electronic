@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622776538 source:d:\postgrado\ec7136 - electrónica de potencia ii\tareas\tarea 1\tarea_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
